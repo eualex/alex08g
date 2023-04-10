@@ -4,7 +4,7 @@
 
 <h3>💥 A little about myself</h3>
 
-- I currently work at the <a href="https://www.extranet.ceuma.br/hotsite/">**Ceuma Group**</a>
+- I currently work at the <a href="https://wefit.com.br/">**WeFit**</a>
 - I'm studying software engineering
 - I'm specializing in the frontend
 - I'm getting to know more about backend
