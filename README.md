@@ -17,6 +17,5 @@
 
 <h3>💥 Tell me about you</h3>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eualex.br/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eu-alex/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eu.alex.ar@gmail.com)
